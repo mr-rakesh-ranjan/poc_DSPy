@@ -3,7 +3,6 @@
 
 ## DSPy is a framework for algorithmically optimizing LM prompts and weights, especially when LMs are used one or more times within a pipeline. 
 
---
 
 
 > To use LMs to build a complex system without DSPy, you generally have to: 
