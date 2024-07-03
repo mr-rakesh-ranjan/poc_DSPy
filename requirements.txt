@@ -1,1 +1,2 @@
 dspy-ai
+python_dotenv
